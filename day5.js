@@ -5,18 +5,7 @@ loop through a string at least 10 characters long and log each character
 make that string upper case
  */
 
-var groceryItems = [
-    "bread",
-    "milk",
-    "cheese",
-    "gatorade",
-    "paper towels",
-    "coffee",
-    "wine",
-    "yogurt",
-    "cookies",
-    "eggs"
-];
+var groceryItems = ["bread","milk","cheese","gatorade","paper towels","coffee","wine","yogurt","cookies","eggs"];
 var name = "Morgan Chase Smith";
 
 function listGroceries(grocArray){
